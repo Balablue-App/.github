@@ -22,6 +22,6 @@ Our software is designed to bring a new level of interactivity to professional e
 We believe that technology can play a significant role in making professional events more engaging and productive. By incorporating technology into the event experience, we aim to foster a more collaborative and relaxed atmosphere that will enable attendees to connect, network, and engage with each other in a meaningful way.
 
 # Get in Touch
-If you're interested in using our software to enhance your professional events, we'd love to hear from you! Contact us at munarthecreator@gmail.com to learn more about how we can help.
+If you're interested in using our software to enhance your professional events, we'd love to hear from you! Contact us at balablue@gmail.com to learn more about how we can help.
 
 Thank you for considering Balablue for your professional event needs! We look forward to the opportunity to help bring your events to the next level.
