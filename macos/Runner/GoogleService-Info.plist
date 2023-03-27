@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>792805524778-cku1drmfnaqnhilhr7qn0mufjd5rmlqn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.792805524778-cku1drmfnaqnhilhr7qn0mufjd5rmlqn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBA0mDZazmEKtR6iPf-oFDm1DbIkoRo3Oo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>792805524778</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.c</string>
+	<key>PROJECT_ID</key>
+	<string>nupay-b7d2a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nupay-b7d2a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:792805524778:ios:e2597306bf06a0776d0a53</string>
+</dict>
+</plist>

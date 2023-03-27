@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "792805524778",
+    "project_id": "nupay-b7d2a",
+    "storage_bucket": "nupay-b7d2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792805524778:android:3bb0481ae1e630026d0a53",
+        "android_client_info": {
+          "package_name": "com.example.c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792805524778-drt3ih5b7g5v6l091blfk7d1hvrc9s0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfYup6dscksuATrw9YLQE0WDPQ0AM5VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792805524778-drt3ih5b7g5v6l091blfk7d1hvrc9s0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "792805524778-j8hjosa5risllff08hiv7l4jpi668pba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nupay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792805524778:android:12fa40d75684a9696d0a53",
+        "android_client_info": {
+          "package_name": "com.example.nupay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792805524778-drt3ih5b7g5v6l091blfk7d1hvrc9s0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfYup6dscksuATrw9YLQE0WDPQ0AM5VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792805524778-drt3ih5b7g5v6l091blfk7d1hvrc9s0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "792805524778-j8hjosa5risllff08hiv7l4jpi668pba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nupay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
